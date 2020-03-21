@@ -1,7 +1,9 @@
 # Today I Learned
 ## Overview
+学んだことまとめ
+
 I write down what I have learned.
-It may be difficult to read because it is written in English for my study......
+
 
 ## Programming
 
@@ -17,5 +19,6 @@ It may be difficult to read because it is written in English for my study......
 ### Regression
 
 ## Others
+### Git
 ### Personal Software Process for Engineers
 
