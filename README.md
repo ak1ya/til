@@ -11,7 +11,7 @@ I write down what I have learned.
 - Python
   - Django
   - discordpy
-***
+  
 ### PHP
 - PHP
   - Lalavel
