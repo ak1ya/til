@@ -8,17 +8,19 @@ I write down what I have learned.
 ## Programming
 
 ### Python
-- Django
-- discordpy
+- Python
+  - Django
+  - discordpy
 ***
 ### PHP
-- Lalavel
+- PHP
+  - Lalavel
 
 ## Mathematics
-
-### Regression
+- Regression
 
 ## Others
 ### Git
+- command
 ### Personal Software Process for Engineers
 
