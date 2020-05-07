@@ -4,23 +4,52 @@
 
 I write down what I have learned.
 
+## Internet
 
-## Programming
+## Basic Frontend Knowledge
+
+## OS and General Knowledge
+
+## Language
 
 ### Python
 - Python
-  - Django
-  - discordpy
+  - Python3
+#### Framework  
+- Django
+- discordpy
   
 ### PHP
 - PHP
-  - Lalavel
+  - PHP 7.4
+#### Framework
+- Lalavel
+
+## Version Control Systems
+
+### Git
+- command
+
+## Relational Database
+
+## More about Database
+
+## APIs
+
+## Cache
+
+## Web Security Knowledge
+
+## Test
+
+### CI/CD
+
+
 
 ## Mathematics
 - Regression
 
 ## Others
-### Git
-- command
+
 ### Personal Software Process for Engineers
 
