@@ -4,12 +4,11 @@
 
 I write down what I have learned.
 
-## Internet
+## General Knowledge
+- Operating System Concepts Ninth Edition
 
 ## Basic Frontend Knowledge
-
-## OS and General Knowledge
-- Operating System Concepts Ninth Edition
+- vue.js
 
 ## Language
 
