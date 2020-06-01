@@ -9,6 +9,7 @@ I write down what I have learned.
 ## Basic Frontend Knowledge
 
 ## OS and General Knowledge
+- Operating System Concepts Ninth Edition
 
 ## Language
 
@@ -31,6 +32,7 @@ I write down what I have learned.
 - command
 
 ## Relational Database
+- PosgreSQL
 
 ## More about Database
 
