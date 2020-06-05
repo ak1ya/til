@@ -13,7 +13,7 @@
 ## 概要
 <details><summary>目次</summary>
 
-- Chapter1　Introduction
+- [Chapter1　Introduction](https://github.com/ak1ya/til/blob/master/general_knowledge/Operating_System_Concepts_9th_Edition.mdOperating_System_Concepts_9th_Edition/Chapter1.md)
 - Chapter2　Operating-System Structures
 - Chapter3　Processes
 - Chapter4　Threads
