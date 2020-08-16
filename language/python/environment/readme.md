@@ -1,1 +1,48 @@
-## 環境構築
+# 環境構築
+
+## 構築手順
+- 仮想環境を作って、その中でPythonの実行やライブラリの追加をする
+
+### pyenvのインストール
+- bashの場合
+```
+# pyenvをインストール
+$ brew install pyenv
+
+# インストール中に表示された注意（Caveats）に従い、.bash_profileに2つのコマンドを追記する
+# 参考：https://qiita.com/crankcube@github/items/15f06b32ec56736fc43a
+$ ls -l ~/.bash_profile
+
+$ cat << 'EOS' >> ~/.bash_profile
+# pyenvさんに~/.pyenvではなく、/usr/loca/var/pyenvを使うようにお願いする
+export PYENV_ROOT=/usr/local/var/pyenv
+
+# pyenvさんに自動補完機能を提供してもらう
+if which pyenv > /dev/null; then eval "$(pyenv init -)"; fi
+
+EOS
+
+# ~/.bash_profileに書いた内容を有効にする
+$ source ~/.bash_profile
+
+# インストールできたか確認
+$ brew list | grep pyenv
+$ pyenv --version
+```
+
+- zshの場合(差分)
+```
+cat << 'EOS' >> ~/.zshrc
+# pyenvさんに~/.pyenvではなく、/usr/loca/var/pyenvを使うようにお願いする
+export PYENV_ROOT=/usr/local/var/pyenv
+
+# pyenvさんに自動補完機能を提供してもらう
+if command -v pyenv 1>/dev/null 2>&1; then
+  eval "$(pyenv init -)"
+fi
+EOS
+# shellをリロードする
+zsh -l
+```
+
+### Pythonのインストール
