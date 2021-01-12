@@ -17,6 +17,7 @@ I write down what I have learned.
   - Python3
 #### Framework  
 - Django
+- Flask
 - discordpy
   
 ### PHP
