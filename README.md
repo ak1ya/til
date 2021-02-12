@@ -7,9 +7,6 @@ I write down what I have learned.
 ## General Knowledge
 - Operating System Concepts Ninth Edition
 
-## Basic Frontend Knowledge
-- vue.js
-
 ## Language
 
 ### Python
@@ -22,6 +19,10 @@ I write down what I have learned.
 
 ### JavaScript
 - JavaScript
+
+#### Framework
+- React.js
+- Vue.js
   
 ### PHP
 - PHP
