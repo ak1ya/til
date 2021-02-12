@@ -1,6 +1,5 @@
-# Chapter1
-
 # Chapter1 Introduction
+
 ## 1.1 What Operating Systems Do
 - コンピュータシステム全体の中でのオペレーティングシステムの役割
 - コンピュータシステムの構成要素
@@ -8,9 +7,8 @@
     - オペレーティングシステム
     - アプリケーションプログラム
     - ユーザ
-
-
-    <img width="484" alt="スクリーンショット 2020-06-07 13.14.50.png (62.5 kB)" src="https://img.esa.io/uploads/production/attachments/14565/2020/06/07/74132/e3f9b786-fd6d-4dc8-9221-48e85fb4d09d.png">
+    
+<img width="484" alt="figure1-1" src="https://user-images.githubusercontent.com/9145629/107718730-f19adc00-6d19-11eb-8407-4245ddf37838.png">
 
 - **ハードウェア**
     - **中央処理装置（CPU）、メモリ、入出力装置**
