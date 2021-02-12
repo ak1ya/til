@@ -19,6 +19,9 @@ I write down what I have learned.
 - Django
 - Flask
 - discordpy
+
+### JavaScript
+- JavaScript
   
 ### PHP
 - PHP
